@@ -1,0 +1,14 @@
+build/
+cmake-build-*/
+*.o
+*.obj
+*.exe
+*.out
+*.efficient_frontier.csv
+efficient_frontier.csv
+.vscode/
+.idea/
+CMakeCache.txt
+CMakeFiles/
+compile_commands.json
+test_*.csv
